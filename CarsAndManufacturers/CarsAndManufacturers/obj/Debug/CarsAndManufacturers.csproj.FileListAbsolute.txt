@@ -1,0 +1,16 @@
+C:\Users\איתי עדי יוסף\תכנות\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\bin\Debug\CarsAndManufacturers.exe.config
+C:\Users\איתי עדי יוסף\תכנות\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\bin\Debug\CarsAndManufacturers.exe
+C:\Users\איתי עדי יוסף\תכנות\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\bin\Debug\CarsAndManufacturers.pdb
+C:\Users\איתי עדי יוסף\תכנות\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\obj\Debug\CarsAndManufacturers.csprojAssemblyReference.cache
+C:\Users\איתי עדי יוסף\תכנות\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\obj\Debug\CarsAndManufacturers.csproj.CoreCompileInputs.cache
+C:\Users\איתי עדי יוסף\תכנות\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\obj\Debug\CarsAndManufacturers.exe
+C:\Users\איתי עדי יוסף\תכנות\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\obj\Debug\CarsAndManufacturers.pdb
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\bin\Debug\CarsAndManufacturers.exe.config
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\bin\Debug\CarsAndManufacturers.exe
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\bin\Debug\CarsAndManufacturers.pdb
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\obj\Debug\CarsAndManufacturers.csproj.CoreCompileInputs.cache
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\obj\Debug\CarsAndManufacturers.exe
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\obj\Debug\CarsAndManufacturers.pdb
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\bin\Debug\Data\Cars.csv
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\bin\Debug\Data\Manufacturers.csv
+C:\Users\איתי עדי יוסף\Desktop\.Net&Angular\Home Practice 1\CarsAndManufacturers\CarsAndManufacturers\obj\Debug\CarsAndManufacturers.csprojAssemblyReference.cache
