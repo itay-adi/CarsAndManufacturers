@@ -1,4 +1,4 @@
-# CarsAndManufacturers
+# Cars And Manufacturers
 
 Using a menu, we present data from CSV files which contains data about Cars and manufacturers.
 The user can choose:
@@ -23,9 +23,9 @@ The project contains the following:
 	
 * [Logic:](https://github.com/itay-adi/CarsAndManufacturers/tree/main/CarsAndManufacturers/CarsAndManufacturers/Logic)
 	A folder containing 3 classes:
-	* API.cs- a public static Class which contains the core functions
-	* ConsoleHelper.cs- a public static Class which contains the differnet print methods
-	* DataReader.cs- a public static Class which contains a methods which turn strings to entities
+	* API.cs- a public static Class which contains the core functions(https://github.com/itay-adi/CarsAndManufacturers/blob/main/CarsAndManufacturers/CarsAndManufacturers/Logic/API.cs)
+	* ConsoleHelper.cs- a public static Class which contains the differnet print methods(https://github.com/itay-adi/CarsAndManufacturers/blob/main/CarsAndManufacturers/CarsAndManufacturers/Logic/ConsoleHelper.cs)
+	* DataReader.cs- a public static Class which contains a methods which turn strings to entities(https://github.com/itay-adi/CarsAndManufacturers/blob/main/CarsAndManufacturers/CarsAndManufacturers/Logic/DataReader.cs)
 		
-* [Program.cs](https://github.com/itay-adi/CarsAndManufacturers/tree/main/CarsAndManufacturers/CarsAndManufacturers)
+* [Program.cs](https://github.com/itay-adi/CarsAndManufacturers/blob/main/CarsAndManufacturers/CarsAndManufacturers/Program.cs)
 	A file which contains the main and wrapper functions
