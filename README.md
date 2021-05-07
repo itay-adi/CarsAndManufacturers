@@ -2,12 +2,11 @@
 
 Using a menu, we present data from CSV files which contains data about Cars and manufacturers.
 The user can choose:
-##
-	* List of all manufacturers
-	* List of all vehicles of a specific manufacturer
-	* Number of cars per MFG
-	* Best cars of each MFG per countery
-	* List General highlights
+* List of all manufacturers
+* List of all vehicles of a specific manufacturer
+* Number of cars per MFG
+* Best cars of each MFG per countery
+* List General highlights
 
 The project above demonstrate:
 1. working with database in the form of two csv files: Cars.csv and Manufacturers.csv
