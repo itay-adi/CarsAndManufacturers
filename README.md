@@ -23,7 +23,7 @@ The project contains the following:
 	
 * [Logic:](https://github.com/itay-adi/CarsAndManufacturers/tree/main/CarsAndManufacturers/CarsAndManufacturers/Logic)
 	A folder containing 3 classes:
-	* API.cs- a public static Class which contains the core functions(https://github.com/itay-adi/CarsAndManufacturers/blob/main/CarsAndManufacturers/CarsAndManufacturers/Logic/API.cs)
+	* [API.cs]- a public static Class which contains the core functions(https://github.com/itay-adi/CarsAndManufacturers/blob/main/CarsAndManufacturers/CarsAndManufacturers/Logic/API.cs)
 	* ConsoleHelper.cs- a public static Class which contains the differnet print methods(https://github.com/itay-adi/CarsAndManufacturers/blob/main/CarsAndManufacturers/CarsAndManufacturers/Logic/ConsoleHelper.cs)
 	* DataReader.cs- a public static Class which contains a methods which turn strings to entities(https://github.com/itay-adi/CarsAndManufacturers/blob/main/CarsAndManufacturers/CarsAndManufacturers/Logic/DataReader.cs)
 		
