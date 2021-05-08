@@ -8,13 +8,13 @@ The user can choose:
 * Best cars of each MFG per countery
 * List General highlights
 
-##The project above demonstrate:
+## The project above demonstrate:
 * working with database in the form of two csv files: Cars.csv and Manufacturers.csv
 * The work and implemintation of Extension Methods in C#:
 
 
 
-##The project contains the following:
+## The project contains the following:
 * [Data:](https://github.com/itay-adi/CarsAndManufacturers/tree/main/CarsAndManufacturers/CarsAndManufacturers/Data) 
 	A folder containing the two CSV files
 	
