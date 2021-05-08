@@ -10,7 +10,7 @@ The user can choose:
 
 ## The project above demonstrate:
 * working with database in the form of two csv files: Cars.csv and Manufacturers.csv
-* The work and implemintation of Extension Methods in C#:
+* The work and implemintation of Extension Methods in C#
 
 
 
